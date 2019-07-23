@@ -1,0 +1,4 @@
+[submodule "PearWork/ClientApp"]
+	path = PearWork/ClientApp
+	url = https://github.com/maikebing/pearProject.git
+	branch = master
